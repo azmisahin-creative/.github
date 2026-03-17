@@ -1,0 +1,18 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" rx="40" fill="#0D1117"/>
+  
+  <circle cx="200" cy="200" r="120" stroke="#30363D" stroke-width="2" stroke-dasharray="8 8"/>
+  <circle cx="200" cy="200" r="90" stroke="#58A6FF" stroke-width="4" stroke-opacity="0.3"/>
+  <circle cx="200" cy="200" r="60" stroke="#58A6FF" stroke-width="6" stroke-opacity="0.6"/>
+  
+  <circle cx="200" cy="200" r="25" fill="#58A6FF">
+    <animate attributeName="r" values="22;28;22" dur="3s" repeatCount="indefinite" />
+  </circle>
+  
+  <path d="M200 130V100" stroke="#F0E68C" stroke-width="4" stroke-linecap="round"/>
+  <path d="M200 270V300" stroke="#F0E68C" stroke-width="4" stroke-linecap="round"/>
+  <path d="M130 200H100" stroke="#F0E68C" stroke-width="4" stroke-linecap="round"/>
+  <path d="M270 200H300" stroke="#F0E68C" stroke-width="4" stroke-linecap="round"/>
+  
+  <path d="M170 230L200 170L230 230" stroke="white" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
